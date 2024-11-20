@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 2309AM1_AC-Predict
 
 ## Tweet Classification Application
@@ -14,6 +13,3 @@ The team was tasked with modelling an application to classify tweet messages int
 The application provides users with options to utilize any of the following classification algorithms: Logistic Regression, Random Forest, K-nearest neighbor, and Linear SVC. Each algorithm is described and explained on how it works.
 
 The application displays the data used to train the model and offers the option to view the raw data. For interested users, there is a tab for EDA (Exploratory Data Analysis) where insights found in the data are shown.
-=======
-# AC-Predict
->>>>>>> 2b858a957d94d3f24e67313be6bbb526b963fad5
